@@ -7,5 +7,5 @@
 
 ## Arquivos para a avaliação do Pset 1
 1. [Código PostgreSQL](scriptpronto.sql)
-2. Segundo item
+2. [PDF do Diagrama Relacional] ()
 3. Terceiro item

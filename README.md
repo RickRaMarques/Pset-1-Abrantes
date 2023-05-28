@@ -13,4 +13,4 @@
 ## Arquivos para a avaliação do Pset 1
 1. [Código PostgreSQL](Pset_1/cc1ma_202308031_postgresql.sql)
 2. [PDF do Diagrama Relacional](Pset_1/cc1ma_202308031.postgresql.architect.pdf)
-3. [Arquivo do código do Diagrama Relacional] ()
+3. [Arquivo do código do Diagrama Relacional](Pset_1/cc1ma_202308031.postgresql.architect)

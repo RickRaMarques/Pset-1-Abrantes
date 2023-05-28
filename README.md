@@ -6,6 +6,6 @@
 
 
 ## Arquivos para a avaliação do Pset 1
-1. [Código PostgreSQL](scriptpronto.sql)
+1. [Código PostgreSQL](cc1ma_202308031.postgresql.sql)
 2. [PDF do Diagrama Relacional](PowerArchitect.pdf)
 3. 

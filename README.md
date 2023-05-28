@@ -2,7 +2,7 @@
 ##
 - Aluno-Ricardo Ramalho Marques
 - Matrícula-202308031
-- Professor-Abrantes Arpújo Silva
+- Professor-Abrantes Araújo Silva
 - Monitora-Suellen Miranda Amorim
 
 ## Sobre o Pset
